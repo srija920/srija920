@@ -6,7 +6,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <img src=".\Assests\code.gif" align="centre> <br>
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)   [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-Tea.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)   [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sai Srija Panchgnula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-srija-panchagnula-3304851a4/)](https://www.linkedin.com/in/sai-srija-panchagnula-3304851a4/)
 [![MAIL Badge](https://img.shields.io/badge/-p.saisrija920@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:p.saisrija920@gmail.com)](mailto:p.saisrija920@gmail.com)
