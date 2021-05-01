@@ -54,9 +54,10 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <code><img height="30" src="https://www.qwiklabs.com/qwiklabs_logo_900x887.png"></code>
 <h2 align="center"><i>Listen to my Favoutites</i></h2>
 <p align="center">
-<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=ztqt8jr736bj46nxujg0vthny
-"></img>
-</p>T
+<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=ztqt8jr736bj46nxujg0vthny"></img>
+</p>
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fh0rc7azsybzpdmkwvnnsa2c7) -->
+
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
 
