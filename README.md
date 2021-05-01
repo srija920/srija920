@@ -24,7 +24,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <ul>
 <img align='right' src="Assests\shot_02.webp" width="365px"><br>
 
-  <li> 🔭 I’m currently working on <b>MERN</b></li>
+  <li> 🔭 I’m currently working on <b>MEAN</b></li>
   <li> :memo: I’m currently learning <b>Data Structures,JS,CSS</b></li>
   <li> 👯 I’m looking to collaborate on <b>Projects on Python</b></li>
   <li> 🤔 I’m looking for help with <b>JavaScript</b></li>
