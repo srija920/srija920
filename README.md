@@ -67,9 +67,9 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 ## Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> :
 <img align='right' src="Assests\CookedSparseFlickertailsquirrel-small.gif" width="350px">
 
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://simpleicons.org/?q=Twitter" /> <a href="https://twitter.com/iamsrijaP">Sai Srija Panchagnula</a> 
+<img align="left" alt="Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" /> <a href="https://twitter.com/iamsrijaP">Sai Srija Panchagnula</a> 
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://simpleicons.org/?q=Linkedin" /> <a href="https://www.linkedin.com/in/sai-srija-panchagnula-3304851a4/">Sai Srija Panchagnula</a> 
+<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/sai-srija-panchagnula-3304851a4/">Sai Srija Panchagnula</a> 
 
 
 
